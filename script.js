@@ -1,4 +1,4 @@
-
+ 
         // Theme Toggle
         const themeToggle = document.getElementById('themeToggle');
         const mobileThemeToggle = document.getElementById('mobileThemeToggle');
